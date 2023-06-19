@@ -18,5 +18,6 @@
     "esno",
     "GPTAPI",
     "OPENAI"
-  ]
+  ],
+  "nuxt.isNuxtApp": false
 }
